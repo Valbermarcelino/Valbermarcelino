@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valbermarcelino
-- 👀 I’m interested in React, HTML, CSS, JavaScript and Node.JS
-- 🌱 I’m currently learning how create plugins in Wordpress
-- 💞️ I’m looking to collaborate on Front end projects
+- 👀 I’m interested in C#, Java, Node.JS, JavaScript, HTML, CSS and 
+- 🌱 I’m currently learning about Information Systems, Clean Architecture, Domain Driven Development and Design Patterns
+- 💞️ I’m looking to collaborate on Back-end projects
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/valber-marcelino/
 
 <!---
